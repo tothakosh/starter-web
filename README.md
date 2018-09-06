@@ -16,3 +16,7 @@ Adding more..
 Adding deployment ..
 
 ## How to contribute
+
+### Copyright
+
+2014 Git.Training
