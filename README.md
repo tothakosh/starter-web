@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This is as simple website. Adding a line for rebasing example, then more changes from myfeature branch too.
+This is as simple website. 
+Updating for emergency fix after stashing.
 
 ## Introduction
 
